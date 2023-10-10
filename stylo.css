@@ -1,0 +1,33 @@
+body {
+margin: 0%;
+padding: 0%;
+}
+
+#imagens {
+   height: 900px;
+    background-image: url('imagem/foto1.jpeg');
+    background-size: cover;
+    
+    
+    
+    
+    
+  }
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+}
+
+h3 {
+    display: flex;
+    font-size: 20px;
+    margin-top: 300px;
+    font-weight: normal;
+    color: black;
+    margin-left: 20px;
+    
+    
+}
